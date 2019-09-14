@@ -1,0 +1,15 @@
+Nome Loja: Lojas Americanos
+Total: R$ 0.0
+Lucro: R$ 0.0(Total - Salários)
+
+Nome Gerente: Eduardo D. Oliveira
+CPF gerente: 22222222222
+Número de funcionarios: 1
+Salário: R$ 0.0
+
+Funcionários: 
+Nome Atendente: Souza
+CPF Atendente: 22222222222
+Comissão Atendente: 10.0%
+Salário Atendente: R$0.0
+

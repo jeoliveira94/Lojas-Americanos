@@ -1,0 +1,58 @@
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza cadastrou com sucesso o produto 'suco' de valor 5.0 na loja Los Conceituales Store
+O gerente Eduardo de Souza cadastrou com sucesso o atendente 'Atonio' de cpf 06250745300 na loja Los Conceituales Store
+O atendente Atonio logou
+O atendente Atonio com cpf 06250745300 vendeu 56 x suco
+O atendente Atonio com cpf 06250745300 vendeu 10105 x suco
+O atendente Atonio com cpf 06250745300 vendeu 323 x suco
+O atendente Atonio com cpf 06250745300 vendeu 123 x suco
+O atendente Atonio com cpf 06250745300 vendeu 12 x suco
+O atendente Atonio com cpf 06250745300 vendeu 1 x suco
+O atendente Atonio com cpf 06250745300 vendeu 1 x suco
+O atendente Atonio com cpf 06250745300 vendeu 1 x suco
+O atendente Atonio com cpf 06250745300 vendeu 1 x suco
+O atendente Atonio com cpf 06250745300 vendeu 1 x suco
+O atendente Atonio com cpf 06250745300 vendeu 23 x suco
+O atendente Atonio com cpf 06250745300 vendeu 13 x suco
+O atendente Atonio com cpf 06250745300 vendeu 23 x suco
+O atendente Atonio com cpf 06250745300 vendeu 323 x suco
+O atendente Atonio com cpf 06250745300 vendeu 123 x suco
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza cadastrou com sucesso o produto 'leite' de valor 4.0 na loja Los Conceituales Store
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza cadastrou com sucesso o atendente 'Souza' de cpf 03889693342 na loja Los Conceituales Store
+O atendente Souza logou
+O atendente Souza com cpf 03889693342 vendeu 50 x leite
+O gerente Eduardo de Souza logou
+O atendente Souza logou
+O atendente Souza logou
+O atendente Souza logou
+O atendente Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo de Souza logou
+O gerente Eduardo D. Oliveira logou
+O gerente Eduardo D. Oliveira logou
+O gerente Eduardo D. Oliveira logou
+O gerente Eduardo D. Oliveira logou
+O gerente Eduardo D. Oliveira logou
+O gerente Eduardo D. Oliveira logou
+O gerente Eduardo D. Oliveira logou
+O gerente Eduardo D. Oliveira cadastrou com sucesso o atendente 'Souza' de cpf 03889693342 na loja Lojas Americanos
+O atendente Souza logou
+O atendente Souza logou
+O atendente Souza logou
+O atendente Souza logou
+O atendente Souza logou
+O atendente Souza logou
+O atendente Souza logou
+O gerente Eduardo D. Oliveira logou
+O atendente Souza logou
